@@ -1,4 +1,4 @@
-[![MasterHead]([https://cdn.buttercms.com/zLnTfXaDQw2Oi5Y08D0p](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif))]
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)]
 <h1 align="center">Hi 👋, I'm Saurabh Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
