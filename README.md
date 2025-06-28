@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sau1606&label=Profile%20views&color=0e75b6&style=flat" alt="sau1606" /> </p>
 
-- 🌱 I’m currently learning *JavaScript, React JS*
+- 🌱 I’m currently learning *Building AI Agents*
 
 - 📫 How to reach me *singhsaurabh1606@gmail.com*
 
